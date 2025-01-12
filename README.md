@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Peter
-I cherish my role as a self-made web developer. And delivered multiple projects as a freelancer and worked as a Django Developer at Noran Soft Private Limited. <br/><br/>
+I cherish my role as a self-made web developer. And delivered multiple projects as a freelancer and working as a Sofware Developer at Liangtuang Technology Private Limited. <br/><br/>
 Visit me at: https://petergangmei.com/
 
 
